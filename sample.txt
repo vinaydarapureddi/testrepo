@@ -1,5 +1,8 @@
-this is the first line i am entering to the sample file
-and this is the second line i am entering to the line
-this the third lineThis is the fourth lineThis is the another line
+this is the first LINE i am entering to the sample file
+and 
+this is the second line i am entering to the line
+this the third line
+This is the fourth line
+This is the another line
 [A
 [A
